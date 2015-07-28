@@ -1,6 +1,6 @@
 {
   "name": "good-stream",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stream reporting for Good process monitor",
   "main": "index.js",
   "scripts": {
