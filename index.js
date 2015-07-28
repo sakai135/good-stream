@@ -1,4 +1,4 @@
-var Squeeze = require('good-squeeze');
+var Squeeze = require('good-squeeze').Squeeze;
 
 function GoodReporterStream(events, config) {
 	this.squeeze = Squeeze(events);
